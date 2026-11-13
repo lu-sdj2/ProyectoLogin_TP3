@@ -1,6 +1,6 @@
 <?php
 $host = "localhost";
-$dbname = "proyectologin_db";
+$dbname = "proyecto_log";
 $username = "root";
 $password = "";
 
